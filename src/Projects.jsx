@@ -1,7 +1,7 @@
-import Axios from "axios";
+import axios from "axios";
 import React, { Component } from "react";
 import ProjectCard from "./ProjectCard";
-import { UndrawDesignerLife } from "react-undraw-illustrations";
+import { UndrawDashboard } from "react-undraw-illustrations";
 
 
 
@@ -22,7 +22,7 @@ class Projects extends Component {
 
     render() {
     const projects = this.state.projects;
-    let ProjectsList;
+    let projectsList;
 
 
 
@@ -40,7 +40,7 @@ class Projects extends Component {
         <div className="ui main container">
           <div className="ui stackable two column grid">
             <div className="column">
-              <UndrawDashboard />
+              <UndrawDashboard primaryColor='#283a' height='200px' />
             </div>
             <div className="column">
               <h1 className="ui header">My Projects</h1>
