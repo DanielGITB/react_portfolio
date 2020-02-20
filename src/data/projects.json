@@ -1,7 +1,7 @@
-[   
+[
   {
     "id": 1,
-    "name": "My First Website",
+    "name": "My First Webpage",
     "image": "http://www.4president.us/websites/2000/2000w/gore2000home.gif",
     "description": "This was my first project. The guy lost, but won the popular vote!"
   },
@@ -17,5 +17,4 @@
     "image": "https://images.unsplash.com/photo-1534237886190-ced735ca4b73?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
     "description": "I like to design for the mobile platform. The challenges to build UI's for smartphones is challenging but extremely rewarding."
   }
-    
 ]
