@@ -1,20 +1,21 @@
 [
   {
     "id": 1,
-    "name": "My First Webpage",
-    "image": "http://www.4president.us/websites/2000/2000w/gore2000home.gif",
-    "description": "This was my first project. The guy lost, but won the popular vote!"
+    "name": "My BMI Calculator",
+    "image": "https://images.unsplash.com/photo-1509869175650-a1d97972541a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    "description": "This one of a kind application will downright have you head of heels with weightloss!",
+    "href": "https://github.com/DanielGITB/bmiCalculator"
   },
   {
     "id": 2,
-    "name": "UI Design",
-    "image": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
-    "description": "Designing user interfaces is fun. I want to learn more about that..."
+    "name": "Virtual ATM",
+    "image": "https://images.unsplash.com/photo-1520278013317-50b1dfd757cd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+    "description": "Military grade ATM not only lets you withdraw money but also tells you if you are in fron of an ATM or not"
   },
   {
     "id": 3,
-    "name": "Mobile UX",
-    "image": "https://images.unsplash.com/photo-1534237886190-ced735ca4b73?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
-    "description": "I like to design for the mobile platform. The challenges to build UI's for smartphones is challenging but extremely rewarding."
+    "name": "Various Ruby Challenges",
+    "image": "https://images.unsplash.com/photo-1546094096-0df4bcaaa337?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80",
+    "description": "Here I store my old tinkering with Ruby! Very Done!"
   }
 ]
